@@ -1,0 +1,53 @@
+
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  image-gen:
+    name: Generate image for GitHub Stats
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@v3.34
+      with:
+        token: ${{ secrets.METRICS_TOKEN }}
+        
+        user: Andre601
+        template: markdown
+        filename: README.md
+        markdown: TEMPLATE.md
+        markdown_cache: '.cache'
+        
+        base: activity, community, repositories, metadata
+        config_timezone: Europe/Zurich
+        #
+        # List discussion stats
+        plugin_discussions: yes
+        #
+        # List issue and PR stats
+        plugin_followup: yes
+        #
+        # Show 3D Commit calendar
+        plugin_isocalendar: yes
+        #
+        # Show "Most used languages"
+        plugin_languages: yes
+        #
+        # Show people following
+        plugin_people: yes
+        #
+        # Show recently starred
+        plugin_stars: yes
+        #
+        # Show most starred and random repos
+        plugin_repositories: yes
+        #
+        # Temporary fix for lowlighter/metrics#1222
+        extras_css: |
+          .field.warning { display: none; }
