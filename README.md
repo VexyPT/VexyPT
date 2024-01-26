@@ -1,5 +1,5 @@
 <h2> Hi, I'm Daniel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg5YmVsNDhha2F2azRldnU5bzdjcnRnZG9qcmMzcHhoOXdjenl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cibER78jKTfFTUtsCC/giphy.gif" width="230">
+<img align='right' src="https://imgur.com/a/ngJdk6p" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
