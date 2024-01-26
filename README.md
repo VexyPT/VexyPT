@@ -1,7 +1,3 @@
-<!-- Links -->
-[purr]: https://purrbot.site
-[discord]: https://discord.gg/6dazXp6
-
 <!-- SVGs -->
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
