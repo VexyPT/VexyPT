@@ -9,9 +9,9 @@ const dani = {
   code: [Javascript, Typescript, Java, Python, C],
   tools: [Node, Discord.js, JDA, MongoDB],
   projects: {
-                        owner: "Discord Portugal",
-                        Dev: "Ellie Bot",
-                        CEO: "BlazeStock"
+                        owner: "Discord Portugal (Unofficial)",
+                        Dev: "KoreBot",
+                        CEO: "Wizard's Mod"
                       },
  challenge: "Creating a discord bot using JDA"
 }
