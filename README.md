@@ -12,7 +12,7 @@ const dani = {
                         owner: "Discord Portugal (Unofficial)",
                         Dev: ["FishGuard","TuneTitan"],
                         CEO: "Oasis Store"
-                      },
+  },
 }
 ```
 
