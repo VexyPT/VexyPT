@@ -1,6 +1,6 @@
-<h2 align="center">Hi there, i'm Rok👋</h2>
+<h2 align="center">Hi there, i'm Vexy👋</h2>
 
-<h3>I'm a Brazilian dev since 2019, i love to imagine and create something new with programming.</h3>
+<h3>I'm a Portuguese dev since 2020, i love to imagine and create something new with programming.</h3>
 
 [![wakatime](https://wakatime.com/badge/user/13e7bc68-321b-4dae-9f2f-8e7d4a8c1c83/project/00fa5527-a7cc-4dea-978e-d8ab8fc747c3.svg)](https://wakatime.com/badge/user/13e7bc68-321b-4dae-9f2f-8e7d4a8c1c83/project/00fa5527-a7cc-4dea-978e-d8ab8fc747c3)
 
