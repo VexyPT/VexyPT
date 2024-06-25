@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, i'm Vexy👋</h2>
 
 
-<h3>I'm a Portuguese dev since 2020, i love to imagine and create something new with programming.</h3>
+<h3>I'm a Portuguese developer since 2020, i love to imagine and create something new with programming.</h3>
 
 - 🤖 I’m currently working as **Bot developer** and **CIO** at **Space Solutions**.
 
