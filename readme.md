@@ -10,7 +10,7 @@
 <p align="left">
   
   - Discord: `vexydevpt`
-  - E-mail: [`stawni.contact@gmail.com`](mailto:stawni.contact@gmail.com)
+  - E-mail: [`vexydiscord.contact@gmail.com`](mailto:vexydiscord.contact@gmail.com)
   - Website: Soon
 
 
