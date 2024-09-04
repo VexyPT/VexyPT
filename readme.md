@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=VexyPT&icon=6&color=11)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Back end developer<br>Love javascript <br>
 
@@ -8,19 +11,7 @@ Back end developer<br>Love javascript <br>
 ![](https://github-readme-stats.vercel.app/api?username=VexyPT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VexyPT&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VexyPT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VexyPT&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=VexyPT&icon=6&color=11)](https://visitcount.itsvg.in)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VexyPT&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/VexyPT)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/danielfilipe17) 
-
-| Wakatime | Github |
-| --- | --- |
-| [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VexyPT&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/VexyPT) | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VexyPT&theme=tokyonight&show_icons=true&locale=en&count_private=true" alt="pedrorok" />
