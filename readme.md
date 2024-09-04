@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=VexyPT&icon=6&color=11)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Back end developer<br>Love javascript <br>
+Hi! My name is Daniel and I'm a backend developer <br>
 
 
 # 💻 Tech Stack:
