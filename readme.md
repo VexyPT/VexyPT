@@ -10,7 +10,6 @@ Back end developer<br>Love javascript <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VexyPT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VexyPT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VexyPT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=VexyPT&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/VexyPT)
 
   ## 💰 You can help me by Donating
