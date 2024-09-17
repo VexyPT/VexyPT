@@ -2,7 +2,8 @@
 [![](https://visitcount.itsvg.in/api?id=VexyPT&icon=6&color=11)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hi! My name is Daniel and I'm a backend developer <br>
+Hi! My name is Daniel and I'm a backend developer
+Discord: `vexypt` <br>
 
 
 # 💻 Tech Stack:
