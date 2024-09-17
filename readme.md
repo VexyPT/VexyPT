@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Hi! My name is Daniel and I'm a backend developer <br>
-Discord: `vexypt` <br>
+Add me on discord for comissions: `vexypt` <br>
 
 
 # 💻 Tech Stack:
